@@ -1,7 +1,5 @@
 ## 实验三 Systemd实操
 
-<hr style="height:1px" />
-
 ### 实验环境
 - Ubuntu18.04.4
 - puTTy
@@ -39,13 +37,11 @@
 #### 实战篇
 
 - 1~6
-
 [![asciicast](https://asciinema.org/a/LPbpb51ytJV0k6L349n6zWZiM.svg)](https://asciinema.org/a/LPbpb51ytJV0k6L349n6zWZiM)
 
 <hr style="height:1px" />
 
 - 7~9
-
 [![asciicast](https://asciinema.org/a/fGxH7GLvBAxC8YxfHeCvglji7.svg)](https://asciinema.org/a/fGxH7GLvBAxC8YxfHeCvglji7)
 
 <hr style="height:1px" />
