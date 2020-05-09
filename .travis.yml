@@ -58,7 +58,7 @@ script:
         - bash task-3.sh -c
         - bash task-3.sh -d
         - bash task-3.sh -e
-        - bash task-3.sh -u /images/USA-logosmall.gif
+        #- bash task-3.sh -u /images/USA-logosmall.gif
 
 after_script:
         - /usr/bin/shellcheck task-1.sh
